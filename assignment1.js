@@ -4,8 +4,7 @@
 *  No part of this assignment has been copied manually or electronically from any other source
 *  (including web sites) or distributed to other students.
 * 
-*  Name: ______________________ Student ID: ______________ Date: ________________
-*
+*  Name: Maya Clarke Student ID: 107776247 Date: 18/01/2025
 ********************************************************************************/ 
 // from step 6
 function getRandomInt(max) {
